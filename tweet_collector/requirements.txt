@@ -1,0 +1,5 @@
+pymongo
+credentials
+tweepy==4.10
+dnspython
+pytz
